@@ -55,3 +55,6 @@ Aplikasi ini **tidak ditujukan untuk penggunaan umum**. TFHP hanya diperuntukkan
 
 ## 📥 Unduh & Jalankan
 
+![ss1](sxx)
+
+![ss2](sxx)
