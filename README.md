@@ -55,6 +55,6 @@ Aplikasi ini **tidak ditujukan untuk penggunaan umum**. TFHP hanya diperuntukkan
 
 ## 📥 Unduh & Jalankan
 
-![ss1](sxx)
+![ss1](https://raw.githubusercontent.com/REYHAN6610/TFHP-KILL/refs/heads/main/20250717_070550.jpg)
 
-![ss2](sxx)
+![ss2](https://raw.githubusercontent.com/REYHAN6610/TFHP-KILL/refs/heads/main/20250717_070625.jpg)
