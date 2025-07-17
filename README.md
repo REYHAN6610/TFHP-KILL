@@ -1,5 +1,7 @@
 # 🧪 TFHP – Tencome Flood Handle Payload
 
+![TFHP](https://raw.githubusercontent.com/REYHAN6610/TFHP-KILL/refs/heads/main/20250716_195213.png)
+
 **TFHP** adalah aplikasi Android eksperimental untuk melakukan uji batas (stress test) ekstrem terhadap performa dan stabilitas sistem Android. Aplikasi ini mendorong perangkat menjalankan **431 juta loop paralel** dalam satu sesi untuk melihat sejauh mana hardware dan sistem mampu bertahan.
 
 ---
